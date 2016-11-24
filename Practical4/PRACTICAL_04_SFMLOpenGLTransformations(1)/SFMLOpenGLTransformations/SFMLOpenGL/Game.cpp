@@ -108,13 +108,13 @@ void Game::draw()
 
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-	//Resets the matrix for each primitive to prevent the scale, translate and rotate multiplications from becoming cumulative.
+	//Resets the matrix for each primitive to prevent the scale, translate and rotate multiplications from becoming cumulative, ie creates an identity matrix.
 	glLoadIdentity();
-	//Used to rotate a primitive, first parameter is the angle of rotation you wish for it to rotate, the next 3 parameters are used to set which axis (X,Y,Z) you wish to rotate the primitive around.
+	//Used to rotate the camera about a primitive, first parameter is the angle of rotation you wish for it to rotate, the next 3 parameters are used to set which axis (X,Y,Z) you wish to rotate the camera around.
 	glRotatef(rotationAngle, 0, 0, 1);
-	//Used to set where on the screen the primitive is drawn, takes parameters for each axis(X,Y,Z), setting the z axis to a negative number makes it seem as if the "camera" is further away from the primitive.
+	//Used to set where in the cameras view the primitive is drawn, takes parameters for each axis(X,Y,Z), setting the z axis to a negative number makes it seem as if the primitive is further away from the camera.
 	glTranslatef(0, 0, -10);
-	//Used to set the scale of the primitive about each axis, where 1 is the default size. 
+	//Used to scale the view of the camera about each axis, where 1 is the default size. 
 	glScalef(1, 1, 6);
 	cout << "Drawing Primative " << current << endl;
 	glCallList(current);

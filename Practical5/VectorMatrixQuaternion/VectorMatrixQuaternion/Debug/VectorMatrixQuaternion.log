@@ -205,4 +205,119 @@ e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\ve
 e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(16): error C2143: syntax error: missing ';' before '*'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(16): error C2433: 'Vector3': 'friend' not permitted on data declarations
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(16): error C2143: syntax error: missing ',' before '&'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(16): error C2804: binary 'operator *' has too many parameters
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(17): error C2143: syntax error: missing ';' before '*'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(17): error C2433: 'Vector3': 'friend' not permitted on data declarations
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(17): error C2143: syntax error: missing ',' before '&'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(24): error C2061: syntax error: identifier 'Vector3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(24): error C2535: 'Matrix3::Matrix3(void)': member function already defined or declared
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(23): note: see declaration of 'Matrix3::Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(26): error C3646: 'row': unknown override specifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(26): error C2059: syntax error: '('
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(26): error C2238: unexpected token(s) preceding ';'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(27): error C3646: 'column': unknown override specifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(27): error C2059: syntax error: '('
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(27): error C2238: unexpected token(s) preceding ';'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(35): error C2039: 'string': is not a member of 'std'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\predefined c++ types (compiler internal)(208): note: see declaration of 'std'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(35): error C3646: 'toString': unknown override specifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(35): error C2059: syntax error: '('
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(35): error C2238: unexpected token(s) preceding ';'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(24): error C2061: syntax error: identifier 'Vector3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(32): error C3646: 'rotate': unknown override specifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(32): error C2059: syntax error: '('
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(32): error C2238: unexpected token(s) preceding ';'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(12): error C2146: syntax error: missing ';' before identifier 'v1'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(12): error C3861: 'v1': identifier not found
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(13): error C2146: syntax error: missing ';' before identifier 'v2'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(13): error C3861: 'v2': identifier not found
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(14): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(14): error C2065: 'v2': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(16): error C2065: 'v2': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(21): error C2146: syntax error: missing ';' before identifier 'answerVector'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(21): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(27): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(27): error C2065: 'v2': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(30): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(30): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(30): error C2065: 'v2': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(31): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(31): error C2228: left of '.toString' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(31): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(33): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(33): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(33): error C2065: 'v2': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(34): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(34): error C2228: left of '.toString' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(34): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(36): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(36): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(37): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(37): error C2228: left of '.toString' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(37): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(39): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(39): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(40): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(40): error C2228: left of '.toString' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(40): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(42): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(42): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(43): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(43): error C2228: left of '.toString' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(43): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(45): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(45): error C2228: left of '.length' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(45): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(46): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(46): error C2228: left of '.lengthSquared' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(46): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(90): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(90): error C2039: 'rotate': is not a member of 'Quaternion'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(9): note: see declaration of 'Quaternion'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(90): error C2065: 'v1': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(91): error C2065: 'answerVector': undeclared identifier
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(91): error C2228: left of '.toString' must have class/struct/union
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(91): note: type is 'unknown-type'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(99): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(102): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(104): error C2666: 'Matrix3::operator *': 2 overloads have similar conversions
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(17): note: could be 'int Matrix3::operator *(const int)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(19): note: or       'Quaternion operator *(const int &,const Quaternion &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(18): note: or       'Quaternion operator *(const double &,const Quaternion &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(17): note: or       'Quaternion operator *(const float &,const Quaternion &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(16): note: or       'Quaternion operator *(const Quaternion &,const int &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(15): note: or       'Quaternion operator *(const Quaternion &,const double &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(14): note: or       'Quaternion operator *(const Quaternion &,const float &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\quaternion.h(11): note: or       'Quaternion operator *(const Quaternion &,const Quaternion &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\vector3.h(19): note: or       'Vector3 operator *(const Vector3 &,const int &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\vector3.h(18): note: or       'Vector3 operator *(const Vector3 &,const double &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\vector3.h(17): note: or       'Vector3 operator *(const Vector3 &,const float &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\vector3.h(16): note: or       'float operator *(const Vector3 &,const Vector3 &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(20): note: or       'Matrix3 operator *(const Matrix3 &,const Matrix3 &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(19): note: or       'Matrix3 operator *(const Matrix3 &,const float &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(18): note: or       'Matrix3 operator *(const double &,const Matrix3 &)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(104): note: while trying to match the argument list '(Matrix3, float)'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(104): note: note: qualification adjustment (const/volatile) may be causing the ambiguity
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(105): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(108): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(111): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(114): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(117): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(120): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
+e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\main.cpp(123): error C2039: 'toString': is not a member of 'Matrix3'
+  e:\2nd year\gameplay programming\practicals\practical5\vectormatrixquaternion\vectormatrixquaternion\matrix3.h(11): note: see declaration of 'Matrix3'
   Generating Code...
