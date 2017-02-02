@@ -3,9 +3,10 @@
 //Student ID:		C00159600
 //Date:				23/11/2016
 #pragma once
-#include "Matrix3.h"
+
 #include <math.h>
 #include <string>
+class Matrix3;
 
 class Vector3
 {
@@ -37,4 +38,4 @@ private:
 	float m_z;
 
 };
-
+#include "Matrix3.h"

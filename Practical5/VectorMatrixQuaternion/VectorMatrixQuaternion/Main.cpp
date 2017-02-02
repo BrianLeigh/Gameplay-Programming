@@ -96,31 +96,33 @@ int main()
 	//Matrix Test
 
 	answerMatrix = m1 + m2;
-	std::cout << "m1 + m2 = " <<  answerMatrix.toString << std::endl;
+	std::cout << "m1 + m2 = " <<  answerMatrix.toString() << std::endl;
 
 	answerMatrix = m1 - m2;
-	std::cout << "m1 - m2 = " << answerMatrix.toString << std::endl;
+	std::cout << "m1 - m2 = " << answerMatrix.toString() << std::endl;
 
 	answerMatrix = m1 * f2;
-	std::cout << "m1 * f2 = " << answerMatrix.toString << std::endl;
+	std::cout << "m1 * f2 = " << answerMatrix.toString() << std::endl;
 
 	answerMatrix = f2 * m1;
-	std::cout << "f2 + m1 = " << answerMatrix.toString << std::endl;
+	std::cout << "f2 + m1 = " << answerMatrix.toString() << std::endl;
 
 	answerMatrix = m1.transpose(m2);
-	std::cout << "m1 transpose = " << answerMatrix.toString << std::endl;
+	std::cout << "m1 transpose = " << answerMatrix.toString() << std::endl;
 
 	answerMatrix = m1.inverse(m2);
-	std::cout << "m1 inverse = " << answerMatrix.toString << std::endl;
+	std::cout << "m1 inverse = " << answerMatrix.toString() << std::endl;
 
 	answerMatrix = m1.rotateX(i);
-	std::cout << "m1 rotate x = " << answerMatrix.toString << std::endl;
+	std::cout << "m1 rotate x = " << answerMatrix.toString() << std::endl;
 
 	answerMatrix = m1.rotateY(i);
-	std::cout << "m1 rotate y = " << answerMatrix.toString << std::endl;
+	std::cout << "m1 rotate y = " << answerMatrix.toString() << std::endl;
 
 	answerMatrix = m1.rotateZ(i);
-	std::cout << "m1 rotate z = " << answerMatrix.toString << std::endl;
+	std::cout << "m1 rotate z = " << answerMatrix.toString() << std::endl;
 
-	return 0;
+	system("pause");
+
+
 }

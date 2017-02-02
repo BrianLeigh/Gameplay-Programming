@@ -2,10 +2,10 @@
 //Name:				Brian Leigh
 //Student ID:		C00159600
 //Date:				23/11/2016
-
+#include <string>
 #pragma once
-#include "Vector3.h"
-#include <math.h>
+
+class Vector3;
 
 class Matrix3
 {
@@ -45,3 +45,5 @@ private:
 	float m_m32;
 	float m_m33;
 };
+
+#include "Vector3.h"

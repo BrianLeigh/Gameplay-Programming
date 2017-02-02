@@ -2,8 +2,10 @@
 //Name:				Brian Leigh
 //Student ID:		C00159600
 //Date:				23/11/2016
-#include "Vector3.h"
+#include <string>
 #pragma once
+
+class Vector3;
 
 class Quaternion
 {
@@ -40,3 +42,4 @@ private:
 	float m_z;
 
 };
+#include "Vector3.h"
